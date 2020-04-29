@@ -1,2 +1,3 @@
-# hello-world
-just for practice
+Hello man!
+PythonBro here.
+Good good study,Day day up!
